@@ -1,1 +1,1 @@
-# LMS
+# notes-platform
